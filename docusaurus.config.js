@@ -8,8 +8,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Sparkle遊玩指南',
-  tagline: '完整的伺服器介紹與教程',
+  title: 'Sparkle 花火',
+  tagline: '伺服器遊玩指南',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -43,14 +43,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/TNTsky/SPKsmp-Docs',
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: false,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/TNTsky/SPKsmp-Docs',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -79,7 +79,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/TNTsky/SPKsmp-Docs',
             label: 'GitHub',
             position: 'right',
           },
@@ -128,7 +128,7 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `Copyright © ${new Date().getFullYear()} Skarkle-Guide, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} SPKsmp-Docs, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

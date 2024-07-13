@@ -14,3 +14,7 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+廢文:
+  label: 廢文
+  permalink: /wtf
+  description: 窩是廢文
