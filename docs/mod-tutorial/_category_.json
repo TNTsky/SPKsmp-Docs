@@ -1,0 +1,8 @@
+{
+  "label": "模組相關教程",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "這邊放置著有關整合包安裝、模組安裝、模組教程等相關教程"
+  }
+}
