@@ -4,13 +4,13 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Sparkle 花火',
   tagline: '伺服器遊玩指南',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.webp',
 
   // Set the production url of your site here
   url: 'https://docs.spksmp.top/',
@@ -29,8 +29,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-TW',
-    locales: ['zh-TW'],
+    defaultLocale: 'zh-Hant',
+    locales: ['zh-Hant','zh-Hans', 'en'],
   },
 
   presets: [
@@ -58,7 +58,7 @@ const config = {
       }),
     ],
   ],
-
+  
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -68,7 +68,7 @@ const config = {
         title: 'Sparkle 花火伺服器指南',
         logo: {
           alt: 'Sparkle 伺服器 Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.webp',
         },
         items: [
           {
@@ -77,13 +77,18 @@ const config = {
             position: 'left',
             label: '文檔',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          { to: '/blog', label: 'Blog', position: 'left' },
           {
             href: 'https://github.com/TNTsky/SPKsmp-Docs',
             label: 'GitHub',
             position: 'right',
           },
         ],
+      },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: true
       },
       footer: {
         style: 'dark',
@@ -135,6 +140,17 @@ const config = {
         darkTheme: prismThemes.dracula,
       },
     }),
+    themes: [
+      [
+        require.resolve("@easyops-cn/docusaurus-search-local"),
+        /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+        {
+          hashed: true,
+        },
+      ],
+    ],
 };
+
+
 
 export default config;
