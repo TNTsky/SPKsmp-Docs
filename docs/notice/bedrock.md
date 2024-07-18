@@ -12,11 +12,15 @@ description: 只要你一丁點用BE遊玩的可能性就必看這篇
 為了防止ID衝突，基岩版玩家ID會在最前方加上 `.`  
 即 `Steve` -> `.Steve`
 
+---
+
 ## 基岩版白名單申請
 BE加入白名單較JE麻煩。\
 需至少先進入伺服器一次後才可加入白名單。
 :::warning 使用BE者請在第一次進服前通知管理員。
 :::
+
+---
 
 ## 連結JAVA/BE帳號
 > 可透過連結雙版本帳號，讓BE進服也**使用JAVA存檔**
@@ -35,18 +39,22 @@ BE加入白名單較JE麻煩。\
 :::warning 若先前曾以BE進入過伺服器，連結後將無法遊玩**原先BE存檔**。
 :::
 
+---
+
 ## 解除雙版本帳號連結
-進入伺服器並輸入命令 **(JAVA與BE二擇一即可)**
+進入伺服器並輸入命令 **(JAVA與BE任一即可)**
+:::info 目前解除用的伺服器似乎無法進入，待官方修復
+:::
 
 ### JAVA版
 1. 進入伺服器 `link.geysermc.org`  
    ![alt text](image-3.png)
-2. 輸入 `/unlinkaccount` 即可
+2. 輸入 `/unlinkaccount` 
 
 ### 基岩版(BE)
-1. 進入伺服器 `link.geysermc.org` `19132` [點此快速添加](minecraft://?addExternalServer=GlobalLinkServer|link.geysermc.org:19132)  
+1. 進入伺服器 `link.geysermc.org` `19132` [**點此快速添加**](minecraft://?addExternalServer=GlobalLinkServer|link.geysermc.org:19132)  
    ![alt text](image-4.png)
-2. 輸入 `/unlinkaccount` 即可
+2. 輸入 `/unlinkaccount` 
 
 :::warning 記得重啟遊戲。
 :::
