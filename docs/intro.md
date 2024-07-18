@@ -11,7 +11,7 @@ sidebar_position: 1
 ## 目前文檔分類
 + [**遊玩需知**](/docs/category/遊玩須知)
 + [**存檔介紹**](/docs/category/存檔介紹)
-+ [**模組相關教程**](/docs/category/模組相關教程)
++ [**模組相關教程**](/docs/category/模組相關)
 
 請開啟左側選單以獲取您所需的資訊
 
