@@ -18,3 +18,7 @@ hola:
   label: 廢文
   permalink: /wtf
   description: 窩是廢文
+指南維護:
+  label: 指南維護
+  permalink: /maintain
+  description: 有關本指南維護的文章

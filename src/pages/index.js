@@ -33,6 +33,7 @@ export default function Home() {
   return (
     <Layout
       // title={`${siteConfig.title}`}
+      title={`指南首頁`}
       description="由於官網能放置的內容有限，我們將較完整的教學與資訊放置在此文檔中，以便玩家能夠更詳細地了解伺服器的各種設施和用法。">
       <HomepageHeader />
       <main>
