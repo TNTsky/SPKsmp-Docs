@@ -38,8 +38,8 @@ tags: [指南維護]
         * 修改單一檔案時較為方便。
         * 可在手機等設備上輕鬆操作。
     * 缺點
-        * 無法快速預覽修改效果，需要等待網站構建完成（約兩分鐘）。
-        * 每次修改多個文件時，每次 commit 都會觸發網站構建，可能會導致工作流程阻塞。
+        * 無法預覽修改效果，需要等待網站構建完成（約兩分鐘）。
+        * 修改多個文件時，每次 commit 都會觸發網站構建，可能會導致工作流程阻塞。
         * 新增頁面較為繁瑣。
 </details>
 * 此方法幾乎不需要學習 Git。
@@ -93,7 +93,7 @@ tags: [指南維護]
             ![alt text](image-2.png)
            2. 簡單填寫內容後點擊提交(Commit)\
             ![alt text](image-3.png)
-           3. 點擊推送\
+           3. 點擊推送(Push)\
             ![alt text](image-4.png)
             4. 依照提示登入Github帳號\
             ![alt text](image-5.png)
@@ -138,6 +138,5 @@ SPKsmp-Docs             // 根目錄
 #### 其餘內容在不清楚是甚麼的情況下請別動
 
 :::warning 注意
-在編寫時容易因含有錯誤連結導致建構失敗\
-提交Commit後，請在 [Action頁面](https://github.com/TNTsky/SPKsmp-Docs/actions/workflows/deploy.yml) 確認網頁是否建構成功
+在編寫時容易因含有錯誤連結導致建構失敗，提交Commit後，請在 [Action頁面](https://github.com/TNTsky/SPKsmp-Docs/actions/workflows/deploy.yml) 確認網頁是否建構成功
 :::
