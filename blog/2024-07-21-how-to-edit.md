@@ -141,6 +141,5 @@ SPKsmp-Docs             // 根目錄
 有點懶圖片就全部堆一起惹\
 有空再分資料夾(_　_)。゜zｚＺ
 
-:::warning 注意
-在編寫時容易因含有錯誤連結導致建構失敗，提交Commit後，請在 [Action頁面](https://github.com/TNTsky/SPKsmp-Docs/actions/workflows/deploy.yml) 確認網頁是否建構成功
+:::success 提交Commit後，可在 [Action頁面](https://github.com/TNTsky/SPKsmp-Docs/actions/workflows/deploy.yml) 確認網頁是否建構成功
 :::

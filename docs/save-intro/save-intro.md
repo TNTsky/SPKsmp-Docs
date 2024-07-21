@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 description: 包含出生點、地獄交通、主城等基本訊息
+pagination_prev: null
 ---
 
 # 簡略介紹

@@ -2,7 +2,6 @@
   "label": "存檔介紹",
   "position": 3,
   "link": {
-    "type": "generated-index",
     "description": "這邊放置著有關伺服器內部設施的介紹，包含座標與使用注意事項"
   }
 }

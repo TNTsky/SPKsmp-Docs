@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 description: 伺服器遊戲規定
+pagination_prev: null
 ---
 
 # 伺服器規則

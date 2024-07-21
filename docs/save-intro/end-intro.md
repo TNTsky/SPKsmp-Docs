@@ -1,6 +1,7 @@
 ---
 sidebar_position: 4
 description: 就一些終界的設施
+pagination_next: null
 ---
 
 # 終界設施

@@ -1,0 +1,93 @@
+---
+sidebar_position: 3
+description: 列出整合包內的模組
+pagination_next: null
+---
+
+# 整合包模組一覽
+本篇列出整合包內所有的模組供玩家了解
+
+* 點擊模組名稱可跳轉至MC百科查看中文介紹
+* 若MC百科未收錄則會放上官方網頁連結
+
+<details>
+    <summary>前置API</summary>
+| 名稱                                                           | 中文譯名 | 簡略介紹                                               |
+| -------------------------------------------------------------- | -------- | ------------------------------------------------------ |
+| [Balm](https://www.mcmod.cn/class/4485.html)                   |          | 便於作者跨Fabric與Forge平台編寫1.17+版本的Mod          |
+| [Cloth Config API](https://www.mcmod.cn/class/2346.html)       |          | 客戶端配置螢幕API                                      |
+| [Fabric API](https://www.mcmod.cn/class/3124.html)             |          | BJ4                                                    |
+| [Fabric Language Kotlin](https://www.mcmod.cn/class/2126.html) |          | 可將Kotlin語言用於Fabric模組的Lib模組                  |
+| [Indium](https://www.mcmod.cn/class/3413.html)                 | 銦       | Sodium的附屬模組，提供了對FabricRenderingAPI的支持     |
+| [libIPN](https://www.mcmod.cn/class/7713.html)                 |          | 一鍵背包整理Next的前置，為其提供了一系列GUI/配置文件庫 |
+| [MaLiLib](https://www.mcmod.cn/class/2298.html)                |          | 主要為Masa的模組提供客戶端側支援的公共程式碼庫模組     |
+</details>
+
+<details>
+    <summary>介面改善</summary>
+| 名稱                                                           | 中文譯名          | 簡略介紹                                                    |
+| -------------------------------------------------------------- | ----------------- | ----------------------------------------------------------- |
+| [HideModded](https://www.mcmod.cn/class/13657.html)            | 隱藏“已修改”      | 可以隱藏遊戲標題欄上的`*`以及主選單遊戲版本號後的`(已修改)` |
+| [Mod Menu](https://www.mcmod.cn/class/1675.html)               | 模組選單          | 添加了一個可用於查看模組的列表                              |
+| [Reese's Sodium Options](https://www.mcmod.cn/class/4905.html) | Reese的鈉視訊介面 | 替換了鈉（Sodium）的選項屏幕，旨在改善用戶體驗              |
+</details>
+
+<details>
+    <summary>性能優化</summary>
+| 名稱                                                        | 中文譯名         | 簡略介紹                                           |
+| ----------------------------------------------------------- | ---------------- | -------------------------------------------------- |
+| [Carpet AMS Addition](https://www.mcmod.cn/class/8937.html) |                  | Carpet的拓展Mod                                    |
+| [Carpet](https://www.mcmod.cn/class/2361.html)              | 地毯             | 性能優化與遊戲機制改進                             |
+| [Cull Leaves](https://www.mcmod.cn/class/4414.html)         | 樹葉渲染優化     | 優化樹葉，為原版的性能提供巨大提升                 |
+| [EntityCulling](https://www.mcmod.cn/class/3629.html)       | 實體渲染機制優化 | 跳過渲染不可見的實體和方塊實體                     |
+| [ModernFix](https://www.mcmod.cn/class/8714.html)           | 現代化修復       | 可以提高性能、降低內存占用                         |
+| [Sodium](https://www.mcmod.cn/class/2785.html)              | 鈉               | 在修復一些圖形問題的同時提高渲染性能               |
+| [Sodium Extra](https://www.mcmod.cn/class/3701.html)        | 鈉 · 擴展        | 將高清修復（OptiFine）中的選項帶到了鈉（Sodium）中 |
+| [Video Tape](https://www.mcmod.cn/class/11731.html)         |                  | 解決了GPU記憶體洩露的問題                          |
+</details>
+
+<details>
+    <summary>畫面美化</summary>
+| 名稱                                                               | 中文譯名      | 簡略介紹                                                           |
+| ------------------------------------------------------------------ | ------------- | ------------------------------------------------------------------ |
+| [cat_jam](https://www.mcmod.cn/class/13899.html)                   |               | 使得貓能夠跟著唱片機播放音樂的節奏點頭                             |
+| [Continuity](https://www.mcmod.cn/class/4906.html)                 |               | 盡可能高效地提供連接紋理體驗                                       |
+| [Detail Armor Bar](https://www.mcmod.cn/class/4590.html)           | 細節盔甲      | 使你的盔甲在裝備時能夠顯示更多細節                                 |
+| [Entity Model Features](https://www.mcmod.cn/class/9909.html)      | 實體模型特性  | 作為OptiFine自定義實體模型(CEM)特性的兼容替代存在                  |
+| [Entity Texture Features](https://www.mcmod.cn/class/5862.html)    |               | 支持顯示由紋理包提供的OptiFine格式的實體發光紋理和隨機紋理         |
+| [Falling Leaves](https://www.mcmod.cn/class/4421.html)             | 落葉          | 可以配置哪些類型的樹葉方塊會落葉以及頻率                           |
+| [Iris Shaders](https://www.mcmod.cn/class/3697.html)               |               | 一個開源的、兼容高清修復光影的光影mod，支持Sodium                  |
+| [Skin Layers 3D](https://www.mcmod.cn/class/4618.html)             | 3D 皮膚層     | 以3D立體的方式渲染玩家皮膚的第二層，使皮膚看起來更為立體並充滿質感 |
+| [Smooth Scroll](https://www.mcmod.cn/class/4892.html)              | 平滑滾動      | 為所有原版界面增加了平滑滾動動畫                                   |
+| [Sodium Shadowy Path Blocks](https://www.mcmod.cn/class/5654.html) | 鈉 · 土徑陰影 | 為所有非流體的非完整方塊重新引入了類似於原版的平滑光照             |
+</details>
+
+<details>
+    <summary>資訊展示</summary>
+| 名稱                                                      | 中文譯名        | 簡略介紹                                          |
+| --------------------------------------------------------- | --------------- | ------------------------------------------------- |
+| [AppleSkin](https://www.mcmod.cn/class/744.html)          | 蘋果皮          | 添加了各種與食物和飢餓機制相關的HUD改進           |
+| [Chat Heads](https://www.mcmod.cn/class/4523.html)        | 聊天頭像        | 在玩家所發送的信息前顯示其皮膚頭像                |
+| [Inventory HUD+](https://www.mcmod.cn/class/3395.html)    | 物品欄HUD+      | 添加了三個HUD，分別是物品欄、藥水效果、飾品和盔甲 |
+| [Jade](https://www.mcmod.cn/class/3482.html)              | 玉              | 可顯示許多信息的提示窗模組                        |
+| [MiniHUD](https://www.mcmod.cn/class/2311.html)           | 迷你HUD         | 可以在螢幕上以文字顯示一些信息                    |
+| [Xaero's Minimap](https://www.mcmod.cn/class/1701.html)   | Xaero的小地圖   | 除了具大量功能外，運行起來也比許多小地圖模組流暢  |
+| [Xaero's World Map](https://www.mcmod.cn/class/1483.html) | Xaero的世界地圖 | 添加了一個自動快取的全屏地圖                      |
+</details>
+
+<details>
+    <summary>實用工具</summary>
+| 名稱                                                            | 中文譯名            | 簡略介紹                             |
+| --------------------------------------------------------------- | ------------------- | ------------------------------------ |
+| [EMI](https://www.mcmod.cn/class/6630.html)                     |                     | 功能豐富、易於使用的物品及配方管理器 |
+| [Gamma Utils](https://www.mcmod.cn/class/6720.html)             | 伽瑪工具            | 使你在黑暗中看得更清楚               |
+| [GugleCarpetAddition](https://www.mcmod.cn/class/7305.html)     | Gugle的Carpet附加包 | 為假人添加更多功能                   |
+| [Inventory Profiles Next](https://www.mcmod.cn/class/4104.html) | 一鍵背包整理Next    | 一鍵背包整理的延續模組               |
+| [KleeSlabs](https://www.mcmod.cn/class/1169.html)               | 更好地破壞半磚      | 允許你打破雙層半磚的一半             |
+| [Litematica](https://www.mcmod.cn/class/2261.html)              | 投影                | 允許玩家在遊戲中保存和加載結構       |
+| [Litematica Printer](https://www.mcmod.cn/class/8233.html)      | 投影打印機          | 投影模組的拓展，使玩家更快地建造     |
+| [Logical Zoom](https://www.mcmod.cn/class/7968.html)            |                     | C鍵放大                              |
+| [Syncmatica](https://www.mcmod.cn/class/6842.html)              | 共享原理圖          | 在伺服器中共享投影模組的原理圖       |
+| [Tweakeroo](https://www.mcmod.cn/class/2230.html)               |                     | 對原版遊戲優化，同時提供許多實用功能 |
+</details>
+

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 description: 簡要列出伺服器可能斷線的原因
+pagination_next: null
 ---
 
 # 伺服器無法連線?

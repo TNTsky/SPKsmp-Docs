@@ -2,7 +2,6 @@
   "label": "遊玩須知",
   "position": 2,
   "link": {
-    "type": "generated-index",
     "description": "這邊放置著有關遊玩須知、注意事項等相關資訊"
   }
 }

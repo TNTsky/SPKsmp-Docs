@@ -18,7 +18,7 @@ description: 模組包介紹與安裝教學
     <summary>整合包分類</summary>
 
         依照打包形式的不同，通常可分成以下幾種:
-        ### (最推)CurseForge包
+        ### (推薦)CurseForge包
         * 檔案通常最小
         * 安裝時才從平台上下載所需模組
         * 通用性最高
@@ -27,12 +27,12 @@ description: 模組包介紹與安裝教學
         * 與CurseForge包相同，安裝時才下載模組
         * 檔案同樣也很小
         * 格式通常為`mrpack`，也會有`zip`
-        ### 個別啟動器導出
+        ### 個別啟動器匯出
         * 包含完整模組內容，檔案較大
         * 通用性較低
-        * 內部可能附有啟動器便於遊玩
+        * 內部有時會附有啟動器便於遊玩
         ### 手動精簡包
-        * 內部只包含`mod`、`resourcepacks`、`shader`等資料夾
+        * 內部只包含`mod`、`config`等資料夾
         * 需自行拉入遊戲資料夾
         ### 無腦全包
         * 將整個遊戲資料夾連帶核心全部壓縮在一起
@@ -54,7 +54,7 @@ description: 模組包介紹與安裝教學
 * 支援 CurseForge、Modrinth、MCC 等常見整合包
 * 直接將整合包**拖入啟動器視窗**便可開始安裝
 <details>
-    <summary>跳出找到被封鎖的模組</summary>
+    <summary>彈出: 找到被封鎖的模組</summary>
 
         * 請勿直接點擊OK (點惹就關掉重來一遍)\
             ![alt text](image.png)

@@ -1,6 +1,7 @@
 ---
 sidebar_position: 1
 description: 列出伺服器目前已安裝的模組
+pagination_prev: null
 ---
 
 # 伺服器端模組列表
