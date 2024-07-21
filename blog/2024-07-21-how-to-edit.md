@@ -135,7 +135,10 @@ SPKsmp-Docs             // 根目錄
 * `authors.yml`存放著作者資訊
 * `tags.yml`存放標籤資訊
 
-#### 其餘內容在不清楚是甚麼的情況下請別動
+#### 其餘內容在不清楚是甚麼的情況下別動
+
+有點懶圖片就全部堆一起惹\
+有空再分資料夾(_　_)。゜zｚＺ
 
 :::warning 注意
 在編寫時容易因含有錯誤連結導致建構失敗，提交Commit後，請在 [Action頁面](https://github.com/TNTsky/SPKsmp-Docs/actions/workflows/deploy.yml) 確認網頁是否建構成功
