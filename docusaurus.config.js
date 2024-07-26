@@ -63,7 +63,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/logo.webp',
+      image: 'img/logooo.webp',
       navbar: {
         title: 'Sparkle 花火伺服器指南',
         logo: {
