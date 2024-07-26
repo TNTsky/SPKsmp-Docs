@@ -5,15 +5,15 @@ description: 推薦各種實用的第三方MC啟動器
 
 # 第三方啟動器推薦
 
-由於Minecraft官方啟動器功能過少<s>(撰寫者本人直接不想載)</s>，在安裝模組等操作較為麻煩，因此在這邊推薦幾個較知名的第三方MC啟動器
+由於Minecraft官方啟動器功能過少<s>(筆者直接不想載)</s>，在安裝模組等操作較為麻煩，因此在這邊推薦幾個較知名的第三方MC啟動器
 
 * 較推薦使用:
   * [**PCL2**](#pcl2): 輕量易上手但需稍作設定
   * [**HMCL**](#hmcl): 功能齊全但界面較PCL複雜
-  * [**CurseForge App**](#curseforge-app): 功能完善但占用較高且有廣告，並且與原版啟動器綁定
+  * [**CurseForge App**](#curseforge-app): 功能完善但占用較高且有廣告，與原版啟動器綁定
 * 相對不推薦但可嘗試:
-  * [**Modrinth App**](#modrinth-app): 若不怕全英文的話還不錯，但模組數量可能略少於CurseForge
   * [**Prism Launcher**](#prism-launcher): 介面相對較亂，上手需花較多時間
+  * [**Modrinth App**](#modrinth-app): 若不怕全英文的話還不錯，但模組數量可能略少於CurseForge
 * 不推薦使用:
   * **TLauncher**: 某些因素被視作為惡意軟體，非必要請勿使用([詳情](https://youtu.be/SBTH9n6lz9o?si=gi97Utr1IkyPa_f7))
 

@@ -26,7 +26,7 @@ pagination_next: null
 
 ## 確認伺服器在線狀態
 可透過以下管道確認目前是否在線:
-* [Sparkle官網 - 伺服器狀態](https://wtf.spksmp.top/status)
+* [Sparkle官網 - 伺服器狀態](https://www.spksmp.top/status)
   * 不排除API壞掉
 * [Discord群 #伺服器資訊](https://discord.com/channels/826110789038374962/846979721887481917/921654476153184267)
   * 請確認時間是否正確
@@ -67,12 +67,7 @@ pagination_next: null
     <summary>可能原因</summary>
         1. 端口(埠)輸入錯誤
             * 請確認是否輸入正確
-        2. 外網主機浮動IP變更
-            * 通常兩三分鐘即恢復正常
-            * 可嘗試清除DNS快取(電腦)
-              1. 按下`Win+R`,輸入`cmd`
-              2. 在彈出的窗口輸入`ipconfig /flushdns`
-        3. 伺服器網路異常
+        2. 伺服器網路異常
             * 前方[主機狀態](/docs/notice/status#透過dc機器人確認主機狀態)有任一BOT不在線
             * 通常只能等待管理員處理
 </details>

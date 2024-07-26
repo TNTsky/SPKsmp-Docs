@@ -5,7 +5,7 @@ pagination_prev: null
 
 # 基礎使用操作
 
-本整合包原由 B 站 up 主 [Aer晨QwQ](https://space.bilibili.com/1989205162) 製作，由管理員添加繁體漢化材質包與略做修改後釋出。
+本整合包原由B站up主 [Aer晨QwQ](https://space.bilibili.com/1989205162) 製作，由管理員添加漢化材質包後略做修改釋出。
 
 以下為簡單說明:
 

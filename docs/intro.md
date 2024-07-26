@@ -21,7 +21,7 @@ pagination_next: null
 
 我們期待您的加入！無論您是來自哪裡的玩家，都可以在 Sparkle 伺服器找到屬於自己的快樂。如果您有任何疑問或建議，歡迎隨時聯繫我們的管理團隊。
 
-- **Sparkle Server**：[伺服器官網](https://wtf.spksmp.top)
+- **Sparkle Server**：[伺服器官網](https://www.spksmp.top)
 - **Discord 社群**：[加入 Discord](https://discord.spksmp.top)
 
 祝您遊戲愉快！
