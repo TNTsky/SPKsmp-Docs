@@ -1,23 +1,35 @@
 ---
-sidebar_position: 3
-description: 就一些地獄的設施
+sidebar_position: 6
+pagination_next: null
 ---
 
-# 地獄設施
+# 其他設施
+各種雜亂設施集
 
-## 鞋墊農場(豬肉塔)
-> 地獄 (-260, Y, -150) 位在豬人塔旁\
-> ![alt text](image-23.png)
-
-## 刷經驗用豬人塔
-> 地獄 (77, 247, -36)\
-> ![alt text](image-24.png)
-:::warning 不刷豬人可能是因為偽和平沒關或是下面有人
+## 永晝機
+> 主世界 (554, Y, -1920) \
+> ![alt text](image-19.png)
+<details>
+    <summary>使用方式</summary>
+      1. 呼叫假人
+              ```
+              /player sleep spawn at 554.57 60.13 -1921.50 facing 359.80 -0.60 in minecraft:overworld
+              ```
+      2. 讓假人蹲下(?
+              ```
+              /player sleep sneak
+              ```
+      3. 讓假人持續右鍵
+              ```
+              /player sleep use continuous
+              ```
+      * 若要關閉永晝機
+              ```
+              /player Sleep stop
+              ```
+</details>
+:::success 不用讓此假人下線 主要是用來加載主城的
 :::
-
-## 玄武岩機
-> 地獄 (80, Y, -300)\
-> ![alt text](image-25.png)
 
 ## 主世界偽和平
 > 地獄 (2500, Y, 2500)\
@@ -78,11 +90,12 @@ description: 就一些地獄的設施
 :::warning 此偽和平僅對 **地獄** 刷怪有影響 主世界會照常刷怪
 :::
 
-
-
-
-
-
-
-
+## 640熔爐
+> 終界出生點旁
+> ![alt text](image-32.png)
+* 僅支持盒裝輸入(接受非滿盒)
+* 無白名單(請不要亂丟東西進去)
+* 燒完自動打包
+* 滿盒在上面
+* 非滿盒在下面
 

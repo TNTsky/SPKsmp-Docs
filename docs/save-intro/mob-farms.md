@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
-description: 就一些主世界的設施
 ---
 
-# 主世界設施
+# 刷怪塔
+各類刷怪塔
 
 ## 界浮蚌農場 (已損壞)
 > 主世界 (23, 132, 164)\
@@ -31,6 +31,7 @@ description: 就一些主世界的設施
 > 主世界 (-189, Y, -1095)\
 > 地獄 (-22, Y, -136)\
 > ![alt text](image-10.png)
+
 ## 沉屍塔
 > 主世界 (1792, Y, 436)\
 > 地獄 (224, Y, 55)\
@@ -46,11 +47,6 @@ description: 就一些主世界的設施
     /player Wither spawn at 939.51 185.00 -326.37 facing 1 1 in minecraft:the_nether
     ```
 
-## 刷冰機
-> 主世界 (1284, Y, -633)\
-> 地獄 (160, Y, -78)\
-> ![alt text](image-14.png)
-
 ## 惡魂塔
 > 地獄 (-180, Y, 250)\
 > 請走旁邊的小地獄門\
@@ -60,27 +56,6 @@ description: 就一些主世界的設施
 > 主世界 (-1450, Y, 2040)\
 > ![alt text](image-18.png)
 
-## 永晝機
-> 主世界 (760, Y, -400) (主城內)\
-> ![alt text](image-19.png)
-<details>
-    <summary>使用方式</summary>
-      1. 呼叫假人
-              ```
-              /player Sleep spawn at 764.31 67.88 -411.53 facing 2070.90 7.20 in minecraft:overworld
-              ```
-      2. 讓假人持續右鍵
-              ```
-              /player Sleep use continuous
-              ```
-      * 若要關閉永晝機
-              ```
-              /player Sleep stop
-              ```
-</details>
-:::success 不用讓此假人下線 主要是用來加載主城的
-:::
-
 ## 豬人塔
 > 地獄 (-400, Y, -100)\
 > ![alt text](image-20.png)\
@@ -89,3 +64,17 @@ description: 就一些主世界的設施
 > 主世界 (-3360, Y, -720)\
 > ![alt text](image-22.png)
 
+## 刷經驗用豬人塔
+> 地獄 (77, 247, -36)\
+> ![alt text](image-24.png)
+:::warning 不刷豬人可能是因為偽和平沒關或是下面有人
+:::
+
+## 凋零玫瑰農場
+> 終界 (-668, Y, 791)\
+> ![alt text](image-31.png)\
+> 從本島旁邊一長條泥土的門過去 
+
+## 鞋墊農場(豬肉塔)
+> 地獄 (-260, Y, -150) 位在豬人塔旁\
+> ![alt text](image-23.png)
