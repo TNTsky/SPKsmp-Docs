@@ -66,9 +66,12 @@ description: 模組包介紹與安裝教學
 
 ### [CurseForge App](/docs/other/launcher#curseforge-app)
 * 僅支援安裝CurseForge包
-* 點擊上方`建立自訂設定檔`\
+* 不同版本介面略有差異，請尋找`匯入(Import)`字樣
+1. 點擊上方`建立自訂設定檔`\
     ![alt text](image-3.png)
-* 點擊`匯入`即可
+2. 點擊`匯入`即可\
+    ![alt text](image-5.png)
+
 
 ### [Modrinth App](/docs/other/launcher#modrinth-app)
 * 僅支援安裝Modrinth包
